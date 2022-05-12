@@ -2,7 +2,7 @@
 
 
 - 📚 Eu sou formado em Bacharelado em Biblioteconomia.
-- 🌱 Atualmente estou em transilção de carreira.
+- 🌱 Atualmente estou em transição de carreira.
 - 🎒 Aprendendo JavaScript.
 
 <div align="center">
