@@ -3,7 +3,9 @@
 
 - 📚 Eu sou formado em Bacharelado em Biblioteconomia.
 - 🌱 Atualmente estou em transição de carreira.
-- 🎒 Aprendendo JavaScript, HTML5, CSS3 e React.
+- 🎒 JavaScript, HTML5, CSS3 e React.
+- 🎒 Python, Java, SpringBoot e Angular.
+- 🎒 Data Base, NoSQL e Oracle.
 
 <div align="center">
   <a href="https://github.com/brunosaotiago">
